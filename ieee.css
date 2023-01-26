@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+}
+
+#h1 {
+    font-family: 'Times New Roman';
+    color: rgb(21, 107, 131);
+    font-size:36px;
+}
+#h1:hover {
+    font-family: cursive;
+    color: rgb(21, 107, 131);
+    font-size:40px;
+}
+h2 {
+    font-family: cursive;
+    color: rgb(47, 135, 173);
+}
+#about{
+font-family: cursive;
+    color: rgb(18, 63, 113);
+    font-size: 18px;
+   width: fit-content;
+margin:2%;
+}
+#ieee{
+float:right;
+width:10%;
+height:auto;
+}
+p {
+    font-family: cursive;
+    color: rgb(18, 63, 113);
+    font-size: 18px;
+}
+p:hover {
+    font-weight:bold;
+    color: purple;
+    font-size: 18px;
+}
+
+.web1 {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.img{
+width:30%;
+height:30%;
+}
+.img:hover{
+width:40%;
+height:40%;
+}
+.puzzle {
+    margin-left: 15px;
+    width: 55%;
+    float: right;
+}

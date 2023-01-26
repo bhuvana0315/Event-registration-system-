@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+}
+
+#h2 {
+    font-family: 'Times New Roman';
+    color: rgb(21, 107, 131);
+    font-size:36px;
+}
+#h2:hover {
+    font-family: cursive;
+    color: rgb(21, 107, 131);
+   font-size:40px;
+}
+h2 {
+    font-family: cursive;
+    color: rgb(47, 135, 173);
+}
+#about{
+font-family: cursive;
+    color: rgb(18, 63, 113);
+    font-size: 18px;
+   width: 70%;
+margin:2%;
+}
+#tq{
+width:25%;
+}
+#tq:hover{
+width:30%;
+}
+p {
+    font-family: cursive;
+    color: rgb(18, 63, 113);
+    font-size: 18px;
+}
+p:hover {
+    font-weight:bold;
+    color: purple;
+    font-size: 18px;
+}
+
+marquee{
+margin-left:5%;
+width:50%;
+}
+.blink {
+            animation: blinker 1.5s linear infinite;
+            color: red;
+            font-family: sans-serif;
+        }
+        @keyframes blinker {
+            50% {
+                opacity: 0;
+            }
+        }
+
+.web1 {
+    width: 80%;
+    margin-left: 10%;
+   height:80%;
+}
+
+.img{
+width:30%;
+height:20%;
+}
+.img:hover{
+width:35%;
+height:50%;
+}
+.quiz {
+    width: 63%;
+    float: right;
+}
